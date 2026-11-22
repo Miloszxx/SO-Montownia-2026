@@ -1,2 +1,1 @@
-# SO-Montownia-2026
-Projekt z przedmiotu Systemy Operacyjne 2026/2027
+NOWAK_MILOSZ_158204_opis_MONTOWNIA.md
